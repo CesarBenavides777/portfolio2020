@@ -13,8 +13,7 @@ export const Skills = () => (
       <Details>
         <h1>Hi There!</h1>
         <p>
-          Lorem Ipsum is simply dummy text of the printing and typesetting
-          industry. Lorem Ipsum has been the industry’s standard dummy.
+          I am a full stack web developer and designer living in Austin Texas. I have experience building web applications using the newest tech stacks. I have a passion for both front end design and development.
         </p>
         <Button as={AnchorLink} href="#contact">
           Hire me

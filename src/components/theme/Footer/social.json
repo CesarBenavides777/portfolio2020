@@ -1,22 +1,26 @@
-[ {
-"id":0, 
-"name":"Github", 
-"link":"https://github.com/CesarBenavides777",
-"icon":"/icons/github.svg"
-},  {
-"id":1, 
-"name":"LinkedIn", 
-"link":"https://www.linkedin.com/in/cesar-benavides-673b1085/",
-"icon":"/icons/linkedin.svg"
-},  {
-"id":2, 
-"name":"Email", 
-"link":"mailto:cesarbenavides@icloud.com", 
-"icon":"/icons/email.svg"
-},  {
-"id":3, 
-"name":"Twitter", 
-"link":"https://twitter.com/smakosh",
-"icon":"/icons/twitter.svg"
-}
+[
+  {
+    "id": 0,
+    "name": "Github",
+    "link": "https://github.com/CesarBenavides777",
+    "icon": "/icons/github.svg"
+  },
+  {
+    "id": 1,
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/in/cesar-benavides-673b1085/",
+    "icon": "/icons/linkedin.svg"
+  },
+  {
+    "id": 2,
+    "name": "Email",
+    "link": "mailto:cesarbenavides@icloud.com",
+    "icon": "/icons/email.svg"
+  },
+  {
+    "id": 3,
+    "name": "Twitter",
+    "link": "https://twitter.com/C3SAR1227",
+    "icon": "/icons/twitter.svg"
+  }
 ]
