@@ -29,5 +29,5 @@ module.exports = {
     phone: '210.414.5798',
   },
   foundingDate: '2018',
-  recaptcha_key: '6LftLegUAAAAABGHKTtpgN2r7kiPU2HAyhiI4_Kv',
+  recaptcha_key: '6LftLegUAAAAAJwB98o1vdYcaI054qpt8_qVLxMg',
 };
