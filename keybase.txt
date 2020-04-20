@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/cesar777
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://cesarbenavides.com
+  * I am cesar777 (https://keybase.io/cesar777) on keybase.
+  * I have a public key ASCxckndvSd4h1QDDpHxYRFWIpQ2oMtNd052pMaPzPLtBgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b17249ddbd27788754030e91f1611156229436a0cb4d774e76a4c68fccf2ed060a",
+      "host": "keybase.io",
+      "kid": "0120b17249ddbd27788754030e91f1611156229436a0cb4d774e76a4c68fccf2ed060a",
+      "uid": "7343e810a8aa89e4c4c40b64faabed19",
+      "username": "cesar777"
+    },
+    "merkle_root": {
+      "ctime": 1587394615,
+      "hash": "e7aa19e9f64031a2c5923593ef7c6c0755a401198e80a581ef3fda8121c7800c80d079efa7991ba9a5f64556257b7664aa500f2101aeefde25b8fb101dff487a",
+      "hash_meta": "bf776f5f2744d663366ba1087896786a24016ecaa4d5a71fe6d3e03d7dd12ad2",
+      "seqno": 15988789
+    },
+    "service": {
+      "entropy": "IyXjS4+5OjWBHSt8BsrFmbZn",
+      "hostname": "cesarbenavides.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.4.0"
+  },
+  "ctime": 1587394653,
+  "expire_in": 504576000,
+  "prev": "6462cdb22ea82eab53e3942f54384c3296713525d93bcec2a1eadcedd0b1ceed",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgsXJJ3b0neIdUAw6R8WERViKUNqDLTXdOdqTGj8zy7QYKp3BheWxvYWTESpcCBsQgZGLNsi6oLqtT45QvVDhMMpZxNSXZO87Coerc7dCxzu3EIF73GxN7/HP9fxY00wZRRw6oL75pF9btccFueAkiBDYHAgHCo3NpZ8RAaQgdkHXQbIwCdr1SnQX1OegcCpg4YemVpsoAFEKQdeumTwP95+aWOrWkRa+SCyFyuGiMXsYRiNMEwzOUSkA3CqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIQ4AI2OpiDbE4hc3vJQR/AWmhodZaPETE8dUzWAF/qXo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cesar777
+
+==================================================================
